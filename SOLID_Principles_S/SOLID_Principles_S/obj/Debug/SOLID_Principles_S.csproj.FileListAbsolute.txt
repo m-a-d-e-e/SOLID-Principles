@@ -1,0 +1,5 @@
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S\SOLID_Principles_S\bin\Debug\SOLID_Principles_S.dll
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S\SOLID_Principles_S\bin\Debug\SOLID_Principles_S.pdb
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S\SOLID_Principles_S\obj\Debug\SOLID_Principles_S.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S\SOLID_Principles_S\obj\Debug\SOLID_Principles_S.dll
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S\SOLID_Principles_S\obj\Debug\SOLID_Principles_S.pdb
