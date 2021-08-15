@@ -1,0 +1,4 @@
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S_Lib\SOLID_Principles_S_Lib\bin\Debug\SOLID_Principles_S_Lib.dll
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S_Lib\SOLID_Principles_S_Lib\bin\Debug\SOLID_Principles_S_Lib.pdb
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S_Lib\SOLID_Principles_S_Lib\obj\Debug\SOLID_Principles_S_Lib.dll
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_S_Lib\SOLID_Principles_S_Lib\obj\Debug\SOLID_Principles_S_Lib.pdb
