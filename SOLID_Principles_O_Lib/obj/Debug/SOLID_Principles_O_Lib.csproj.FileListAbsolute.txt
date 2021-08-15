@@ -1,0 +1,5 @@
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_O_Lib\SOLID_Principles_O_Lib\bin\Debug\SOLID_Principles_O_Lib.dll
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_O_Lib\SOLID_Principles_O_Lib\bin\Debug\SOLID_Principles_O_Lib.pdb
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_O_Lib\SOLID_Principles_O_Lib\obj\Debug\SOLID_Principles_O_Lib.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_O_Lib\SOLID_Principles_O_Lib\obj\Debug\SOLID_Principles_O_Lib.dll
+C:\Users\Madeeha.Shaikh\Documents\SOLID Principles\SOLID_Principles_O_Lib\SOLID_Principles_O_Lib\obj\Debug\SOLID_Principles_O_Lib.pdb
